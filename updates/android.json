@@ -101,9 +101,9 @@
     ]
   },
   "app": {
-    "versionCode": 107,
-    "versionName": "1.0.7",
-    "url": "https://shilinfeng-oss.github.io/yiqixue-tutor-demo/updates/YiQiXue-Android-1.0.7.apk",
-    "notes": "修复旧版 Android WebView 拍照回填后识别入口失效的问题，并调整弹层位置，让识别按钮更容易看到。"
+    "versionCode": 108,
+    "versionName": "1.0.8",
+    "url": "https://shilinfeng-oss.github.io/yiqixue-tutor-demo/updates/YiQiXue-Android-1.0.8.apk",
+    "notes": "重做学习首页和导航，按学科拍照，作业流程标明当前步骤，真实错题和示例分开，更新结果实时显示。"
   }
 }
