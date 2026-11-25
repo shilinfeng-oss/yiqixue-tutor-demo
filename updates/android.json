@@ -101,9 +101,9 @@
     ]
   },
   "app": {
-    "versionCode": 106,
-    "versionName": "1.0.6",
-    "url": "https://shilinfeng-oss.github.io/yiqixue-tutor-demo/updates/YiQiXue-Android-1.0.6.apk",
-    "notes": "数学页新增相机悬浮球，可在原页拍照或从相册选择。选图后可直接点「识别照片」，填好 DeepSeek 密钥后继续识别。"
+    "versionCode": 107,
+    "versionName": "1.0.7",
+    "url": "https://shilinfeng-oss.github.io/yiqixue-tutor-demo/updates/YiQiXue-Android-1.0.7.apk",
+    "notes": "修复旧版 Android WebView 拍照回填后识别入口失效的问题，并调整弹层位置，让识别按钮更容易看到。"
   }
 }
